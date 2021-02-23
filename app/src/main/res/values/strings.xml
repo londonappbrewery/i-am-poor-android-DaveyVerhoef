@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name">Lotje</string>
+    <string name="title">Lotje is lief &lt;3</string>
+    <string name="lotje_bank">Lotje op de bank</string>
+    <string name="lotje_melk">Lotje drinkt melk</string>
 </resources>
